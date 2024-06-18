@@ -10,3 +10,5 @@ The water cooler is a ready available one (Digikey,...) for app. 65€<br>
 
 ![image](https://github.com/dl2fw/LDMOSPA/assets/6057290/108ef036-22a6-4d0e-8430-be4571cc4c94)
 
+
+![image](https://github.com/dl2fw/LDMOSPA/assets/6057290/1fd2cf94-d79f-4e64-99e5-e6c4436e17b5)
