@@ -8,4 +8,5 @@ I tried to gather all schematics and gerbers for the PA<br>
 Also BOMS for Digikey, Reichelt and Aliexpress are in the BOM folder<br>
 The water cooler is a ready available one (Digikey,...) for app. 65€<br>
 
-https://github.com/dl2fw/LDMOSPA/blob/main/images/20240617_192041.jpg
+![image](https://github.com/dl2fw/LDMOSPA/assets/6057290/108ef036-22a6-4d0e-8430-be4571cc4c94)
+
