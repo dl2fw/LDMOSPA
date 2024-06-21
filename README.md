@@ -1,6 +1,6 @@
 # LDMOSPA
 LDMOS PA based on the design of DJ0ABR - case from PCB Material<br>
-Output poer 750 or 1500 Watt - depends on if you use 1 or 2 double mosfets<br>
+Output power 750 or 1500 Watt - depends on if you use 1 or 2 double mosfets<br>
 The PA can be either water or air cooled - the case makes both possible - I prefer the water cooled version<br>
 The front has the same size as DB5AT's Wolf SDR case based on PCB Material<br>
 All gerbers are available here<br>
@@ -15,4 +15,10 @@ The water cooler is a ready available one (Digikey,...) for app. 65€<br>
 
 
 ![image](https://github.com/dl2fw/LDMOSPA/assets/6057290/55140c96-569c-4398-8c90-f676694d3812)
+
+
+Link to dj0abr's homepage with further information in german and english:
+
+https://www.dj0abr.de/
+
 
